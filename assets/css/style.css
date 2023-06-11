@@ -41,3 +41,30 @@ h3 {
     font-size: 200%;
     padding-top: 15px;
 }
+
+/* Navigation Bar */
+#nav-bar {
+    text-align: center;
+}
+
+#nav-bar li {
+    display: inline-block;
+    font-size: 150%;
+}
+
+/* Main Page Section */
+.page-header {
+    margin-top: 100px;
+}
+
+.page-message {
+    width: 50%;
+    margin: 50px auto;
+}
+
+#video-resin-art {
+    width: 50%;
+
+    display: block;
+    margin: auto;
+}
